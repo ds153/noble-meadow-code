@@ -1,20 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: David Sathiaraj
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Sat-Heeya-raj
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Pronouns (optional)
-pronouns: she/her
+first_name: David
+last_name: Sathiaraj
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,25 +20,25 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Director of Data Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Trabus Technologies
+    url: https://trabus.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:davids@trabus.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ds153
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -50,55 +47,46 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - AI/ML
+  - Data Science
+  - Data-driven Computing
+  - Data Visualization
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Computer Science and Engineering (Research Area: AI/ML)
+    institution: Louisiana State University
+    date_start: 2007
+    date_end: 2013
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Identification of critical data subsets in improving accuracies of classification algorithms. Work resulted in this [patent](https://patents.google.com/patent/US8725663B1/en?inventor=sathiaraj&oq=sathiaraj) and [journal article](https://ieeexplore.ieee.org/abstract/document/6205754). 
     button:
-      text: 'Read Thesis'
+      text: 'Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MS in Computer Science 
+    institution: Louisiana State University
+    date_start: 2000
+    date_end: 2001
     summary: |
-      GPA: 3.8/4.0
+      GPA: 4.0/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MS in Industrial Engineering
+    institution: Louisiana State University
+    date_start: 1998
+    date_end: 2000
     summary: |
-      GPA: 3.4/4.0
+      GPA: 4.0/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Director of Data Science
+    company_name: Trabus Technologies
+    company_url: 'www.trabus.com'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2020-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
+      - Lead AI and Data Science team at Trabus
+  - position: 
     company_name: X
     company_url: ''
     company_logo: ''
@@ -147,10 +135,14 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Hindi
     percent: 75
-  - name: Portuguese
+  - name: Tamil
+    percent: 50
+  - name: Telugu
     percent: 25
+  - name: Spanish
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -186,4 +178,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+David Sathiaraj is the Director of Data Science at Trabus Technologies in San Diego, CA. He also holds Adjunct Professorships at San Diego State University and Point Loma Nazarene University. In the past, he was also an Assistant Professor at LSU and the Associate Director at NOAA Southern Regional Climate Center, LSU.
