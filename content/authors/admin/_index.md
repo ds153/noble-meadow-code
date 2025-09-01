@@ -3,7 +3,7 @@
 title: David Sathiaraj
 
 # Name pronunciation (optional)
-name_pronunciation: Sat-Heeya-raj
+# name_pronunciation: Sat-Heeya-raj
 
 # Full name (for SEO)
 first_name: David
@@ -40,11 +40,11 @@ profiles:
   - icon: brands/github
     url: https://github.com/ds153
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/david-sathiaraj-952b2a82/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=en&user=M8pdgtQAAAAJ&view_op=list_works&sortby=pubdate
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-8834-8324
 
 interests:
   - AI/ML
@@ -53,16 +53,17 @@ interests:
   - Data Visualization
 
 education:
-  - area: PhD in Computer Science and Engineering (Research Area: AI/ML)
+  - area: PhD in Computer Science and Engineering
+    Research Area: AI/ML
     institution: Louisiana State University
     date_start: 2007
     date_end: 2013
     summary: |
-      Identification of critical data subsets in improving accuracies of classification algorithms. Work resulted in this [patent](https://patents.google.com/patent/US8725663B1/en?inventor=sathiaraj&oq=sathiaraj) and [journal article](https://ieeexplore.ieee.org/abstract/document/6205754). 
+      Identification of critical data subsets in improving accuracies of classification algorithms. Work resulted in this [patent](https://patents.google.com/patent/US8725663B1/en?inventor=sathiaraj&oq=sathiaraj) and [journal article](https://ieeexplore.ieee.org/abstract/document/6205754).
     button:
       text: 'Thesis'
       url: 'https://example.com'
-  - area: MS in Computer Science 
+  - area: MS in Computer Science
     institution: Louisiana State University
     date_start: 2000
     date_end: 2001
@@ -75,7 +76,7 @@ education:
     date_end: 2000
     summary: |
       GPA: 4.0/4.0
-      
+
 work:
   - position: Director of Data Science
     company_name: Trabus Technologies
@@ -86,7 +87,7 @@ work:
     summary: |2-
       Responsibilities include:
       - Lead AI and Data Science team at Trabus
-  - position: 
+  - position:
     company_name: X
     company_url: ''
     company_logo: ''
