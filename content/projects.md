@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Applying AI and Data Science Principles to domains such as Transportation, Predictive Maintenance, Environment, Public Safety and Healthcare
       filters:
         folders:
           - project

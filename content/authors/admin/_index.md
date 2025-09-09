@@ -77,6 +77,12 @@ education:
     summary: |
       GPA: 4.0/4.0
 
+  - area: BE in Mechanical Engineering
+    institution: Osmania University
+    date_start: 1994
+    date_end: 1998
+    summary: |
+      GPA: 4.0/4.0
 work:
   - position: Director of Data Science
     company_name: Trabus Technologies
